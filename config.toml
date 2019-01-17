@@ -63,7 +63,7 @@ googleAnalytics = "UA-2252822-9"
       ]
     biography = """Rahul Menon has been building solutions to help accelerate software development, integration & its devivery process. He specializes in Continious Delivery, Technical Operations and DevOps Enablement of an organization."""  
 	[params.contact]
-		enable = true
+		enable = false
 		formTitle = "Contact Me"
 		namePlaceholder = "Name"
 		emailPlaceholder = "Email"
