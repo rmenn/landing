@@ -27,8 +27,8 @@ googleAnalytics = "UA-2252822-9"
 	
 	# Personal settings
 	
-    name = "Rahul Menon"
-	position = "Automator"
+  #name = "Rahul Menon"
+	#position = "Automator"
 	
 	# Extra stuff
 	# NOTE: There is little different extra stuff in original Identity theme by HTML5 UP.
@@ -42,18 +42,28 @@ googleAnalytics = "UA-2252822-9"
     # What you need to do for the setup?
     #
     # - set your email address under 'email' below
-	# - enable form by setting 'enable' to 'true'
+	  # - enable form by setting 'enable' to 'true'
     # - upload the generated site to your server
     # - send a dummy email yourself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
 	
-	email = "rahul@rmenn.in"
+	email = "rahul+landing@rmenn.in"
 	
 	# Contact form settings
-		
+	[params.personal]
+	  name = "Rahul Menon"
+    position = "Automator"
+    livesIn = "Bangalore, India"
+    scope = [
+        "DevOps Enabler",
+        "AWS Architect",
+        "Kubernetes Advocate",
+        "Cloud Native Technologist"
+      ]
+    biography = """Rahul Menon has been building solutions to help accelerate software development, integration & its devivery process. He specializes in Continious Delivery, Technical Operations and DevOps Enablement of an organization."""  
 	[params.contact]
-		enable = false
+		enable = true
 		formTitle = "Contact Me"
 		namePlaceholder = "Name"
 		emailPlaceholder = "Email"
@@ -74,10 +84,10 @@ googleAnalytics = "UA-2252822-9"
 		link = "https://github.com/rmenn"
 		
 	[[params.social]]
-        title = "LinkedIn"
+    title = "LinkedIn"
 #		title = "Facebook"
 		icon = "fa-linkedin"
-		link = "#"
+		link = "https://www.linkedin.com/in/menonrahul/"
 	
 	# Footer settings
 	[params.footer]
