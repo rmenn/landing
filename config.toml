@@ -93,4 +93,9 @@ googleAnalytics = "UA-2252822-9"
 	# Footer settings
 	[params.footer]
 		copyright = "Rahul Menon"
-		
+
+  [[params.credits]]
+    title = "HTML5UP"
+    text = "Design by"
+    link = "https://html5up.net"
+    
