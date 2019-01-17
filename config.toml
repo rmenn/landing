@@ -54,6 +54,7 @@ googleAnalytics = "UA-2252822-9"
 	[params.personal]
 	  name = "Rahul Menon"
     position = "Automator"
+	  avatar = "rahul.jpg"
     livesIn = "Bangalore, India"
     scope = [
         "DevOps Enabler",
