@@ -62,7 +62,7 @@ googleAnalytics = "UA-2252822-9"
         "Kubernetes Advocate",
         "Cloud Native Technologist"
       ]
-    biography = """I build solutions to help accelerate software development, integration & its delivery process. My specializations include Continious Delivery, Technical Operations and DevOps enablement of an organization."""  
+    biography = """I build solutions to help accelerate software development, integration & its delivery process. My specializations include continuous delivery, Technical Operations and DevOps enablement of an organization."""  
 	[params.contact]
 		enable = false
 		formTitle = "Contact Me"
